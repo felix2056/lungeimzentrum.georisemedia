@@ -316,7 +316,7 @@ Coming Soon CSS
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background: #00045f;
+  background: #5b95c3;
 }
 
 .coming-soon-content #timer div::after {
@@ -328,7 +328,7 @@ Coming Soon CSS
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background: #00045f;
+  background: #5b95c3;
 }
 
 .coming-soon-content #timer div:last-child::before, .coming-soon-content #timer div:last-child::after {
@@ -379,7 +379,7 @@ Coming Soon CSS
   height: 60px;
   padding: 0 30px;
   text-transform: uppercase;
-  background-color: #00045f;
+  background-color: #5b95c3;
   outline: 0;
   color: #ffffff;
   border: none;
@@ -391,7 +391,7 @@ Coming Soon CSS
 
 .coming-soon-content .newsletter-form button:hover {
   color: #ffffff;
-  background-color: #5b95c3;
+  background-color: #00045f;
 }
 
 .coming-soon-content .newsletter-form #validator-newsletter {
